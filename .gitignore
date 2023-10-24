@@ -1,0 +1,5 @@
+# 排除node_modules文件夹
+node_modules/
+
+# 排除lib文件夹
+lib/
